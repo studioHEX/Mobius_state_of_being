@@ -1,4 +1,5 @@
 # Mobius_state_of_being
+![image](https://github.com/studioHEX/Mobius_state_of_being/assets/159900742/980ceb7b-47f8-4dba-a572-9c2cd2b1a9e4)
 
 Mobius State of Being is a meditative performance. During the performance the performer wears a Muse headband that measures realtime brainwaves. When a meditative state is being reached the alpha brain waves are being directly sonified into a low rumble starting at 0 Hz and peaking at 100 Hz. The higher the amount of alpha waves the higher the pitch of the rumble. This rumble is not only a illustration of the brainwaves and the reaching of meditative state it is also used as an exciter for the accoustic resonances inside the room where the performance takes place.
 
